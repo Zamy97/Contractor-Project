@@ -1,2 +1,2 @@
 # Contractor-Project
-## A project that will keep track of how many donations people make to charity!
+## A place where you can add article, edit article and delete article.
